@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Layout = styled.div`
   min-height: 100vh;
-  background-color: #570615;
+  background-color: #713e44;
   color: white;
   font-size: calc(10px + 2vmin);
   display: flex;
