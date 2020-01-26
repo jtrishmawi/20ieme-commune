@@ -37,8 +37,12 @@ function App() {
       </Nav>
       <Container>
         <Hero>
-          C’est l’histoire d’un monde, d’un pays, d’une ville, d’un quartier,
-          d’une rue. C’est l’histoire de ta rue.
+          C’est l’histoire d’un monde, <br />
+          d’un pays, <br />
+          d’une ville, <br />
+          d’un quartier,<br />
+          d’une rue. <br />
+          C’est l’histoire de ta rue.
         </Hero>
         <p>
           Celle que tu traverses chaque jour, que tu crées à chaque pas, que tu
