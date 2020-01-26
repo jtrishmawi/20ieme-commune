@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/20ieme-commune/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/20ieme-commune/static/js/main.39358ef5.chunk.js",
+    "main.js.map": "/20ieme-commune/static/js/main.39358ef5.chunk.js.map",
+    "runtime-main.js": "/20ieme-commune/static/js/runtime-main.d49f05c8.js",
+    "runtime-main.js.map": "/20ieme-commune/static/js/runtime-main.d49f05c8.js.map",
+    "static/js/2.a36e3858.chunk.js": "/20ieme-commune/static/js/2.a36e3858.chunk.js",
+    "static/js/2.a36e3858.chunk.js.map": "/20ieme-commune/static/js/2.a36e3858.chunk.js.map",
+    "index.html": "/20ieme-commune/index.html",
+    "precache-manifest.e282496fb30cb507b1bf8ec3f790333e.js": "/20ieme-commune/precache-manifest.e282496fb30cb507b1bf8ec3f790333e.js",
+    "service-worker.js": "/20ieme-commune/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/20ieme-commune/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d49f05c8.js",
+    "static/js/2.a36e3858.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.39358ef5.chunk.js"
+  ]
+}
