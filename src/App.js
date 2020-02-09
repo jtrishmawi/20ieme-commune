@@ -10,7 +10,7 @@ import Container from "./components/Container";
 import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
-import Programme from "./pages/Programme";
+import Communique from "./pages/Communique";
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
               <Link to="/">Accueil</Link>
             </ListItem>
             <ListItem>
-              <Link to="/programme">Programme</Link>
+              <Link to="/communique">Communiqué</Link>
             </ListItem>
           </List>
         </Nav>
@@ -32,8 +32,8 @@ function App() {
             <Route exact path="/">
               <Home />
             </Route>
-            <Route path="/programme">
-              <Programme />
+            <Route path="/communique">
+              <Communique />
             </Route>
           </Switch>
         </Container>
