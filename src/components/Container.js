@@ -7,6 +7,10 @@ const Container = styled.main`
     text-align: center;
     padding: 20px;
     margin: 0;
+
+    &::first-letter {
+      text-transform: capitalize;
+    }
   }
 `;
 

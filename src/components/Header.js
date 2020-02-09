@@ -16,7 +16,7 @@ const HeaderElement = styled.header`
   font-family: Chalkduster;
 
   @media (min-width: 768px) {
-      padding-left: 200px;
+      padding-left: 180px;
     }
 `;
 

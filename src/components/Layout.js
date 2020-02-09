@@ -11,7 +11,7 @@ const Layout = styled.div`
   @media (min-width: 768px) {
     & {
       display: grid;
-      grid-template-columns: 200px 1fr;
+      grid-template-columns: 180px 1fr;
       grid-template-rows: auto 1fr auto;
     }
   }
