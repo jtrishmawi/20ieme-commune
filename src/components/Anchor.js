@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-const Link = styled.a`
+const Anchor = styled.a`
   white-space: nowrap;
 `;
 
-export default Link;
+export default Anchor;
