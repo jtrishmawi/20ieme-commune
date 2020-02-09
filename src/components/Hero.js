@@ -4,12 +4,13 @@ import styled from 'styled-components';
 
 const Title = styled.h1`
   margin: 0;
-  height: calc(100vh - 164px);
+  height: calc(100vh - 124px);
   text-align: center;
+  color: #801818;
 
   @media (min-width: 768px) {
     & {
-      height: calc(100vh - 104px);
+      height: calc(100vh - 64px);
     }
   }
 `;

@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 const Layout = styled.div`
   min-height: 100vh;
-  background-color: #713e44;
-  color: white;
+  background-color: #ffffff;
+  color: #000000;
   font-size: calc(10px + 2vmin);
   display: flex;
   flex-direction: column;
@@ -11,7 +11,7 @@ const Layout = styled.div`
   @media (min-width: 768px) {
     & {
       display: grid;
-      grid-template-columns: 200px 1fr 200px;
+      grid-template-columns: 200px 1fr;
       grid-template-rows: auto 1fr auto;
     }
   }

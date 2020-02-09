@@ -6,7 +6,6 @@ import { List, ListItem } from "./components/List";
 import Link from "./components/Link";
 import Container from "./components/Container";
 import Hero from "./components/Hero";
-import Aside from "./components/Aside";
 import Footer from "./components/Footer";
 
 function App() {
@@ -169,19 +168,6 @@ function App() {
           visages, un visage qui nous rende fiers.
         </p>
       </Container>
-      <Aside>
-        <List>
-          <ListItem>
-            <Link href="#">Partenaire 1</Link>
-          </ListItem>
-          <ListItem>
-            <Link href="#">Partenaire 2</Link>
-          </ListItem>
-          <ListItem>
-            <Link href="#">Partenaire 3</Link>
-          </ListItem>
-        </List>
-      </Aside>
       <Footer>le Collectif de la Vingtième Commune - 2020</Footer>
     </Layout>
   );

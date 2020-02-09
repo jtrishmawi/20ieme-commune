@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { List } from './List';
 
 const Nav = styled.nav`
-  background-color: #f90;
+  background-color: #ffffff;
 
   ${List} {
     @media (min-width: 768px) {
