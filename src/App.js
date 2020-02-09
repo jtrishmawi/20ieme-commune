@@ -1,11 +1,11 @@
 import React from "react";
-import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 import Layout from "./components/Layout";
 import Header from "./components/Header";
 import Nav from "./components/Nav";
 import { List, ListItem } from "./components/List";
-import Anchor from "./components/Anchor";
+import Link from "./components/Link";
 import Container from "./components/Container";
 import Footer from "./components/Footer";
 
@@ -20,10 +20,10 @@ function App() {
         <Nav>
           <List>
             <ListItem>
-            <Link tag={Anchor} waitChunk to="/">Accueil</Link>
+              <Link to="/">Accueil</Link>
             </ListItem>
             <ListItem>
-            <Link tag={Anchor} waitChunk to="/programme">Programme</Link>
+              <Link to="/programme">Programme</Link>
             </ListItem>
           </List>
         </Nav>

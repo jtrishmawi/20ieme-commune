@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './fonts/Chalkduster.ttf'
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
