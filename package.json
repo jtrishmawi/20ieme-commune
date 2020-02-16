@@ -2,7 +2,7 @@
   "name": "elec-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jtrishmawi.github.io/20ieme-commune",
+  "homepage": "http://lavingtiemecommune.fr/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.0.2",
     "@testing-library/react": "^9.3.2",
