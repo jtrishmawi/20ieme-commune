@@ -1,9 +1,11 @@
 import React from 'react';
+import Video from "../components/Video";
 import Hero from "../components/Hero";
 
 const Home = () => {
   return (
     <>
+      <Video youtubeId={"gDKDtoiRkLs"} />
       <Hero>
           C’est l’histoire d’un monde, <br />
           d’un pays, <br />
